@@ -1,6 +1,6 @@
 ## Flash Genomics Model (FGM)
 
-My own attempt at a long context genomics model, leveraging recent advances in long context attention modeling (Flash Attention + other hierarchical methods)).
+My own attempt at a long context genomics model, leveraging recent advances in long context attention modeling (<a href="https://arxiv.org/abs/2205.14135">Flash Attention</a> + other hierarchical methods)).
 
 ## Citations
 
