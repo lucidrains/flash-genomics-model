@@ -29,14 +29,14 @@ My own attempt at a long context genomics model, leveraging recent advances in l
 
 ```bibtex
 @article {Benegas2022.08.22.504706,
-	author  = {Gonzalo Benegas and Sanjit Singh Batra and Yun S. Song},
-	title   = {DNA language models are powerful zero-shot predictors of genome-wide variant effects},
-	elocation-id = {2022.08.22.504706},
-	year    = {2023},
-	doi     = {10.1101/2022.08.22.504706},
-	publisher = {Cold Spring Harbor Laboratory},
-	URL     = {https://www.biorxiv.org/content/early/2023/04/12/2022.08.22.504706},
-	eprint  = {https://www.biorxiv.org/content/early/2023/04/12/2022.08.22.504706.full.pdf},
-	journal = {bioRxiv}
+    author  = {Gonzalo Benegas and Sanjit Singh Batra and Yun S. Song},
+    title   = {DNA language models are powerful zero-shot predictors of genome-wide variant effects},
+    elocation-id = {2022.08.22.504706},
+    year    = {2023},
+    doi     = {10.1101/2022.08.22.504706},
+    publisher = {Cold Spring Harbor Laboratory},
+    URL     = {https://www.biorxiv.org/content/early/2023/04/12/2022.08.22.504706},
+    eprint  = {https://www.biorxiv.org/content/early/2023/04/12/2022.08.22.504706.full.pdf},
+    journal = {bioRxiv}
 }
 ```
