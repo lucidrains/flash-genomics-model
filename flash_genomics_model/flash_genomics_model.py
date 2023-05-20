@@ -7,6 +7,11 @@ from einops import rearrange, reduce
 from flash_genomics_model.attend import Attend
 
 # functions
+def exists(val):
+    return val is not None
+
+def default(val, d):
+    return val if exists(val) else d
 
 # helper classes
 
