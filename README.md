@@ -4,6 +4,8 @@ My own attempt at a long context genomics model, leveraging recent advances in l
 
 If you would like to collaborate and not averse to having the final model completely open sourced, get in touch. My goal is to simply figure out if long context is what holds us back from a new SOTA model.
 
+Update: Question <a href="https://huggingface.co/papers/2306.15794">has been answered</a>, but I'll probably still continue with the project.
+
 ## Citations
 
 ```bibtex
